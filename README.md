@@ -6,3 +6,13 @@ The Kanada is also useful for text segmentation processing (word-splitting or 'w
 
 This is something I wrote (ported from KAKASI) more than a decade ago and hasn't been maintained since then.
 I'm planning to refine the library so that it become useful for Android app developers.
+
+Compile
+=======
+
+$ ant compile jar
+
+Test
+====
+
+$ ant run
